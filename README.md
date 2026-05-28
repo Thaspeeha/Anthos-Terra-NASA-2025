@@ -1,5 +1,3 @@
-# Anthos-Terra-NASA-2025
-
 # 🏆 2025 NASA Space Apps Global Nominee & Honorable Mention
 
 
