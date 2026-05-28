@@ -28,11 +28,6 @@ A **rule-based prediction system** determines bloom likelihood using defined thr
 
 For this prototype, the model focuses on **_Tribulus omanense_**, a native desert plant species in Abu Dhabi. This localized approach enables targeted bloom prediction, trend visualization, and region-specific ecological insights.
 
-<p align="center">
-  <img src="my-nextjs-app/public/bloom-predict.png" width="420"/>
-  <br/>
-  <em>Bloom Prediction</em>
-</p>
 
 ### 🤖 AI-Assisted Plant Detector
 
@@ -46,11 +41,6 @@ The output includes:
 
 This module connects plant identification with environmental context, helping users understand which conditions favor specific species. While currently lightweight, the detector is designed to scale with larger plant datasets or satellite-based vegetation classification models in future iterations.
 
-<p align="center">
-  <img src="my-nextjs-app/public/AI-detect.png" width="520"/>
-  <br/>
-  <em>AI Plant Detector</em>
-</p>
 
 ### 🕶️ Immersive Virtual Reality Visualization
 
@@ -64,12 +54,6 @@ The VR module is currently under development and will be enhanced with:
 - Temporal and spatial bloom simulations.
 
 This creative fusion of **data visualization, environmental science, and digital art** enables users to experience ecological change in a more personal, sensory, and intuitive way.
-
-<p align="center">
-  <img src="my-nextjs-app/public/vr.png" width="520"/>
-  <br/>
-  <em>Virtual Reality</em>
-</p>
 
 
 ## ✨ **Features**
