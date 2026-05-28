@@ -26,7 +26,7 @@ The platform analyzes multiple environmental indicators—**NDVI**, **EVI**, **r
 
 A **rule-based prediction system** determines bloom likelihood using defined threshold conditions. For example, an NDVI value above 0.3, combined with moderate rainfall and an optimal temperature range, indicates a higher probability of blooming.
 
-For this prototype, the model focuses on **_Tribulus omanense_**, a native desert plant species in Abu Dhabi. This localized approach enables targeted bloom prediction, trend visualization, and region-specific ecological insights.
+For this feature, the model focuses on **_Tribulus omanense_**, a native desert plant species in Abu Dhabi. This localized approach enables targeted bloom prediction, trend visualization, and region-specific ecological insights.
 
 
 ### 🤖 AI-Assisted Plant Detector
